@@ -35,7 +35,7 @@ Anonymizes the provided ip address (in string format) by replacing it with anoth
 using the cryptopan algorithm.
 
 # Example
-```julia-repl
+```julia
 julia> use CryptoPan
 julia> conf = CryptoPanConf("boojahyoo3vaeToong0Eijee7Ahz3yee")
 julia> ip_ano = anonymize("192.0.2.1",conf)

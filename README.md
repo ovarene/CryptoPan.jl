@@ -23,7 +23,7 @@ pkg> add https://github.com/ovarene/CryptoPan.jl
 # Usage
 ```julia-repl
 
-julia> use CryptoPan
+julia> using CryptoPan
 julia> key="boojahyoo3vaeToong0Eijee7Ahz3yee"
 julia> conf = CryptoPanConf(key)
 ...
