@@ -1,0 +1,8 @@
+name = "CryptoPan"
+uuid = "91b496c8-83af-4e37-be0b-1c0c7e09e228"
+authors = ["Olivier Varene <ovarene@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+AES = "c9b324b3-f100-5f6c-8753-000de0ff7416"
+Match = "7eb4fadd-790c-5f42-8a69-bfa0b872bfbf"

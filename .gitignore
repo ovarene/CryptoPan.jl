@@ -1,3 +1,5 @@
+.idea/
+CryptoPan.jl.iml
 *.jl.cov
 *.jl.*.cov
 *.jl.mem
